@@ -53,7 +53,8 @@ admin.site.register(blinkit,blinkitadmin)
 
 
 ## OUTPUT
-![alt text](<Screenshot (10).png>)
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/3237541f-c159-483f-9bf4-13351000c00b" />
+
 
 
 ## RESULT
